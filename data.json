@@ -1,0 +1,28 @@
+{
+  "course_title":"Organic Chemistry I",
+  "course_description":"5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.\n",
+  "course_description_html":"5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.",
+  "site_uid":"00b7c57e-b7c2-4c6a-9993-d33199b733fe",
+  "legacy_uid":"05c88cc5-1a21-e5a9-2f5c-2e8ccbb93c91","instructors": [{
+    "first_name":"Sarah",
+    "last_name":"Tabacco",
+    "middle_initial":"",
+    "salutation":"Dr.",
+    "title":"Dr. Sarah Tabacco"},{
+    "first_name":"Barbara",
+    "last_name":"Imperiali",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Barbara Imperiali"}],"department_numbers":["5"],
+  "learning_resource_types":["Problem Sets with Solutions","Exams","Lecture Notes"],
+  "topics":[["Science","Chemistry","Organic Chemistry"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"5.12",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2003",
+  "level":["Undergraduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/7641390c3bac90c3481b9fea5e26d54e_5-12s03.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/5-12-organic-chemistry-i-spring-2003/7641390c3bac90c3481b9fea5e26d54e_5-12s03.jpg","file_size":59549,"file_type":"image/jpeg","image_metadata":{"caption":"Acid-catalyzed hydration of propene. (Image courtesy of Sarah Tabacco.)","credit":"","image-alt":"Acid-catalyzed hydration of propene. "},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"5-12s03.jpg","uid":"7641390c-3bac-90c3-481b-9fea5e26d54e"}}
+
